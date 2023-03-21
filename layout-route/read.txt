@@ -1,0 +1,15 @@
+node - v16.13.0
+npm - 8.1.0 
+
+2022-08
+
+Next JS
+- Layout
+- CSS
+  - CSS modules
+  - global style
+- Not found
+- Dynamic route 
+-- getStaticProp
+-- getStaticPaths
+- Connected with local Laravel API
